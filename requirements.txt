@@ -2,7 +2,7 @@ PyYAML
 UnittestZero
 execnet
 py
-pytest=
+pytest
 pytest-mozwebqa
 pytest-xdist
 selenium
